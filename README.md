@@ -1,5 +1,5 @@
 # RockPaperScissors
-
+In this Rock Paper Scissors game implemented in Vue.js, the computer wins every round regardless of the user's choices, with scores being updated accordingly.
 This template should help get you started developing with Vue 3 in Vite.
 
 ## Recommended IDE Setup
